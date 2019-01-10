@@ -1,5 +1,9 @@
 # Magento2 REST client
 
+DO NOT USE THIS REPO, PLEASE!
+This is just a copy from https://github.com/DivanteLtd/magento2-rest-client, use this repository instead.
+Thank you.
+
 This Node.js library enables JavaScript applications to communicate with Magento2 sites using their REST API.
 This module based on the magento2-rest-client module created by Marko Novak (2016).
 

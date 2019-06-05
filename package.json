@@ -33,7 +33,8 @@
   "dependencies": {
     "humps": "^1.1.0",
     "oauth-1.0a": "^1.0.1",
-    "request": "^2.72.0"
+    "request": "^2.72.0",
+    "request-progress": "^3.0.0"
   },
   "deprecated": false,
   "description": "REST client for accessing Magento 2 functionality.",
